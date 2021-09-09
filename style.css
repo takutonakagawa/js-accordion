@@ -1,0 +1,27 @@
+
+
+.accordion{
+width: 550px;
+margin: 0 auto;
+}
+
+.accordion__trigger{
+    margin: 0;
+    padding: 10px;
+    display: block;
+    background: #333;
+    color: #fff;
+    border-top: 1px solid #fff;
+    cursor: pointer;
+}
+
+.accordion__contents{
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display:none;
+}
+
+a{
+    text-decoration: none;
+}
